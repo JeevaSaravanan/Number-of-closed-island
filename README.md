@@ -11,3 +11,6 @@
          2D matrix containing only 0's and 1's
 #### Output:  
          Integer, representing the number of closed islands.
+#### Constraints:
+         1 <= grid.length, grid[0].length <= 100
+         0 <= grid[i][j] <=1
