@@ -4,5 +4,5 @@
 
 #### Return the number of closed islands.
 
-#### Input: ###### 2D matrix containing only 0's and 1's
-#### Output: ###### Integer, representing the number of closed islands.
+#### Input: ##### 2D matrix containing only 0's and 1's
+#### Output: ##### Integer, representing the number of closed islands.
